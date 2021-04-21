@@ -17,3 +17,6 @@ Hardware
  Software
 ➢ Blynk
 ➢ Arduino IDE
+
+![CIRCUIT IMAGE](https://user-images.githubusercontent.com/54355988/115506861-00ad8580-a299-11eb-95a9-cd815bc48166.jpg)
+

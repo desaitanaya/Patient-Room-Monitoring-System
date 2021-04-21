@@ -1,1 +1,19 @@
 # Patient-Room-Monitoring-System
+In the current scenario of technological developments the healthcare infrastructure is still underdeveloped and facing a lot of issues.It is estimated that 2.4% of the deaths in the country are incurred due to improper hygiene and non-monitored medical facilities.The main goal of the project is to built a working system which can help monitor the environment of the patient’s room.
+The system is aimed at monitoring the temperature, air quality, humidity and light intensity in the room of the patient. The major aim is to provide a monitored facility to avoid chances of any mishaps and to enhance our existing infrastructure.
+
+AIM :The main aim is to develop a simple but robust model which can efficiently detect the room temperature, humidity, air quality and light intensity.
+
+COMPONENTS REQUIRED:
+Hardware
+➢ NodeMCU ESP8266
+➢ DHT 11 sensor
+➢ LDR sensor
+➢ MQ135 sensor
+➢ Jumper wires
+➢ Breadboard
+➢ USB Cable
+
+ Software
+➢ Blynk
+➢ Arduino IDE

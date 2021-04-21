@@ -5,10 +5,10 @@
 #include <DHT.h>
 
 
-char auth[] = "nWkGl0pKD2ACBZaJuWbNEH9yyZwkrx9f"; //Enter the Auth code which was send by Blynk
+char auth[] = "YOUR BYLNK APP AUTHENTICATION CODE"; //Enter the Auth code which was send by Blynk
 
-char ssid[] = "Redmi";  //Enter your WIFI Name
-char pass[] = "abcd1234";  //Enter your WIFI Password
+char ssid[] = "YOUR WIFI NAME";  //Enter your WIFI Name
+char pass[] = "YOUR WIFI PASSWORD";  //Enter your WIFI Password
 
 #define DHTPIN 2 // Digital pin 4
 
